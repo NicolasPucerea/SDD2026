@@ -142,6 +142,3 @@ int main()
     DezalocareLista(cap);
     return 0;
 }
-
-
-
