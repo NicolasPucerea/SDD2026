@@ -1,0 +1,7 @@
+1,2500,Samsung,24
+2,5200,Apple,12
+3,1800,Apple,24
+4,3200,OnePlus,24
+5,1500,Motorola,36
+6,4100,Huawei,12
+7,2900,Oppo,24
