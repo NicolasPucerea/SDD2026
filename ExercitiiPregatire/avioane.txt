@@ -1,0 +1,7 @@
+1,125000,Boeing,24
+2,98000,Airbus,12
+3,143000,Embraer,24
+4,210000,Bombardier,24
+5,87000,Cessna,36
+6,175000,Gulfstream,12
+7,132000,Dassault,24
